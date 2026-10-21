@@ -1,4 +1,3 @@
-<!--
 ## 🧑‍💻 Sobre mí
 
 Soy un desarrollador de software junior en formación. Actualmente estudio el **Técnico Laboral en Desarrollo de Software en Campuslands (Cúcuta)**, donde aprendo con proyectos prácticos, trabajo en equipo y retos con fechas de entrega reales.
@@ -65,6 +64,7 @@ Proyecto colaborativo hecho en equipo para practicar el flujo de trabajo con Git
 ## 💡 Habilidades blandas
 
 | 🧭 Liderazgo | 🎨 Creatividad | 🤝 Empatía | 📅 Disciplina |
+|:---:|:---:|:---:|:---:|
 | ⏳ Paciencia | ⚡ Proactividad | 💬 Comunicación | 🔄 Adaptabilidad |
 
 ---
